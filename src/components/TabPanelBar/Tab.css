@@ -1,0 +1,27 @@
+
+.yearWeekFont{
+    font-size: 13px;
+    color:rgba(189, 195, 199, 1)
+  }
+  .menuItem1{
+    /* background: rgba(189, 195, 199, 1);
+    border: 1px solid black; */
+    
+  }
+  
+  .divYearWeek{
+    display:flex;
+    flex-direction: column;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .divDate{
+    font-size: 12px;
+  }
+  
+  .diffSelected {
+    background-color: red !important;
+    transform: translateZ(0) !important;
+  }
